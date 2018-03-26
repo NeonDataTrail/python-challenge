@@ -1,6 +1,7 @@
 """PyParagraph Solution"""
 
 import re
+
 file_to_load = "raw_data/paragraph_2.txt"
 file_to_output = "analysis/paragraph_analysis.txt"
 
