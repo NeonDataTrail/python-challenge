@@ -1,4 +1,5 @@
 # -*- coding: UTF-8 -*-
+
 import csv
 
 datafile = "raw_data/election_data_2.csv"
